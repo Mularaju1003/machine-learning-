@@ -1,4 +1,4 @@
-# MLP Depth Tutorial
+# ML Tutorial
 
 This contains the full implementation, analysis, and supporting material for a tutorial investigating the effect of dropout regularisation on Convolutional Neural Networks using the MNIST dataset.
 
